@@ -1,8 +1,12 @@
 Gestión de Torneos de Esports API
+
 Descripción del Proyecto
+
 Este proyecto está desarrollado para una empresa dedicada a la gestión de torneos de videojuegos (esports) en Colombia. La API permite la gestión eficiente de torneos, jugadores y resultados. Las funcionalidades incluyen la creación, actualización, eliminación y consulta de torneos, jugadores y resultados, así como la asignación aleatoria de competencias y el registro de resultados.
 
+
 Funcionalidades
+
 Registrar, consultar y actualizar un jugador.
 Crear, actualizar, eliminar y consultar torneos.
 Agregar participantes a torneos.
@@ -12,6 +16,7 @@ Registrar resultados de competencias con datos de ganador, perdedor y puntaje.
 Consultar resultados de jugadores por torneo con filtros, ordenamiento y paginación.
 
 Estructura del Proyecto
+
 El proyecto está organizado de la siguiente manera:
 
 ```bash
