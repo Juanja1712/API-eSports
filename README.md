@@ -72,3 +72,8 @@ Instalación
 instalar dependencias:
 npm install
 
+Uso de la API
+
+Documentación
+
+La API está documentada con Swagger. Una vez que la aplicación esté en funcionamiento, puedes acceder a la documentación en http://localhost:3000/api.
